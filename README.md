@@ -144,3 +144,4 @@ Get the same Cline experience with enterprise-grade controls: SSO (SAML/OIDC), g
 ## License
 
 [Apache 2.0 © 2026 Cline Bot Inc.](./LICENSE)
+852c65b70c44f6d9e2c00b6154c3091da7da5a42
